@@ -4,7 +4,7 @@
 
 
 <h1 style="font-family:script;" align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-, I'm Grace Iro</h1>
+, I'm Grace ONyenaturuchi</h1>
 <h3 align="center">Critical thinking and problem solving. Teamwork and collaboration. Professionalism and strong work ethic. Oral and written communications skills. Leadership.</h3>
 
 
